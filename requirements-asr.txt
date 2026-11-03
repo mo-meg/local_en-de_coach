@@ -1,0 +1,3 @@
+# NVIDIA NeMo speech recognition
+nemo_toolkit[asr]>=2.2.0
+torch>=2.2.0
