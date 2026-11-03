@@ -1,10 +1,10 @@
-# Local English Practice Coach
+# Local EN/DE Practice Coach
 
-A local English-practice app built with Streamlit, Ollama (`llama3.2`) and an OpenAI-compatible local TTS Studio API.
+A local EN/DE-practice app built with Streamlit, Ollama (`llama3.2`) and an OpenAI-compatible local TTS Studio API.
 
 ## Features
 
-- English conversation practice at B1/B2 level
+- EN/DE conversation practice at B1/B2 level
 - Practice focus and role-play scenario selection
 - Gentle grammar and phrasing corrections
 - Follow-up questions to keep the conversation going
@@ -62,7 +62,7 @@ Open the local URL printed by Streamlit, normally:
 
 ## How to use
 
-1. Choose your English level, practice focus, scenario and coach voice.
+1. Choose your EN/DE level, practice focus, scenario and coach voice.
 2. Enter a message in the chat box.
 3. Read the coach's answer and suggested correction.
 4. Click **Speak latest reply** to hear it, or enable automatic speech in the sidebar.
